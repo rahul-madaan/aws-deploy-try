@@ -8,7 +8,7 @@ export const Button = () => {
     return (
         <>
             <p>Number</p>
-            <>{button}</>
+            <>{button}</> 
             <div>
                 <button onClick={handleClick}>Click to increase number</button>
             </div>
